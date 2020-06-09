@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-09T01:17:12.120Z" agent="5.0 (Windows)" etag="1nue1yVvpfveDvdeAoXN" version="13.1.14" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-06-09T01:19:20.087Z" agent="5.0 (Windows)" etag="i3_BMYPocN8kH2HU_T1A" version="13.1.14" type="github" pages="2">
   <diagram name="Ejercico1" id="ff44883e-f642-bcb2-894b-16b3d25a3f0b">
     <mxGraphModel dx="2160" dy="2165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1731,7 +1731,7 @@
             <mxPoint x="80" y="82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y_2FpcS-Pu8Jd9c-8HA8-831" value="tiempo" style=";html=1;locked=1;" parent="0" visible="0" />
+        <mxCell id="y_2FpcS-Pu8Jd9c-8HA8-831" value="tiempo" style=";html=1;locked=1;" parent="0" />
         <mxCell id="HhQ6_-Lig9lZk93HT8h4-987" value="" style="group" parent="y_2FpcS-Pu8Jd9c-8HA8-831" vertex="1" connectable="0">
           <mxGeometry x="400" y="-890" width="1630" height="550" as="geometry" />
         </mxCell>
@@ -5275,7 +5275,7 @@
         <mxCell id="S6MRA-TEwULufge6P3hB-218" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="y_2FpcS-Pu8Jd9c-8HA8-2659" source="S6MRA-TEwULufge6P3hB-68" target="S6MRA-TEwULufge6P3hB-113">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y_2FpcS-Pu8Jd9c-8HA8-2855" value="Ruta_crítica" style=";html=1;" parent="0" />
+        <mxCell id="y_2FpcS-Pu8Jd9c-8HA8-2855" value="Ruta_crítica" style=";html=1;locked=1;" parent="0" visible="0" />
         <mxCell id="HhQ6_-Lig9lZk93HT8h4-5041" value="Red de actividades" style="swimlane;fillColor=#dae8fc;startSize=50;fontSize=35;align=left;fontStyle=0;strokeColor=#6c8ebf;" parent="y_2FpcS-Pu8Jd9c-8HA8-2855" vertex="1">
           <mxGeometry x="320" y="-1000" width="1800" height="730" as="geometry" />
         </mxCell>
